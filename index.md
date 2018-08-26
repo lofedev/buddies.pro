@@ -38,10 +38,12 @@ Playing same small playlist over and over. (to avoid same songs being played all
 
 ### DJ INFORMATION
 **Song type:** _ONLY NCS MUSIC MAY BE PLAYED!_
+
 **Exceptions:** _Ask a staff member!_
 
 ### PLUG.DJ STAFF MEMBERS
 **Host:** @Lolxgaming
+
 **Manager:** @IJxman
 
 **STAFF MEMBERS DO NOT NEED TO FOLLOW THE RULES!**
