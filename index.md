@@ -42,5 +42,6 @@ Playing same small playlist over and over. (to avoid same songs being played all
 
 ### PLUG.DJ STAFF MEMBERS
 **Host:** @Lolxgaming
+**Manager:** @IJxman
 
 **STAFF MEMBERS DO NOT NEED TO FOLLOW THE RULES!**
